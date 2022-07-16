@@ -727,7 +727,6 @@ am start --user 0 -n com.pubg.imobile/com.epicgames.ue4.SplashActivity
 clear
 elif [ $h = 7 ] || [ $h = 07 ]
 then
-echo -e "\e[42mDownloading \e[m"
 wget https://dumb.jackgithub.workers.dev/0:/game_patch_2.1.0.16497.pak > /dev/null 2>&1
 wget https://dumb.jackgithub.workers.dev/0:/map_notbasicin_2.1.0.16490.pak > /dev/null 2>&1
 mv map_notbasicin_2.1.0.16490.pak game_patch_2.1.0.16497.pak /sdcard/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
@@ -944,7 +943,6 @@ am start --user 0 -n com.tencent.ig/com.epicgames.ue4.SplashActivity
 clear
 elif [ $h = 7 ] || [ $h = 07 ]
 then
-echo -e "\e[42mDownloading \e[m"
 wget https://dumb.jackgithub.workers.dev/0:/game_patch_2.1.0.16497.pak > /dev/null 2>&1
 wget https://dumb.jackgithub.workers.dev/0:/map_notbasicin_2.1.0.16490.pak > /dev/null 2>&1
 mv map_notbasicin_2.1.0.16490.pak game_patch_2.1.0.16497.pak /sdcard/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
@@ -1161,7 +1159,6 @@ am start --user 0 -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
 clear
 elif [ $h = 7 ] || [ $h = 07 ]
 then
-echo -e "\e[42mDownloading \e[m"
 wget https://dumb.jackgithub.workers.dev/0:/game_patch_2.1.0.16497.pak > /dev/null 2>&1
 wget https://dumb.jackgithub.workers.dev/0:/map_notbasicin_2.1.0.16490.pak > /dev/null 2>&1
 mv map_notbasicin_2.1.0.16490.pak game_patch_2.1.0.16497.pak /sdcard/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
@@ -1378,7 +1375,6 @@ am start --user 0 -n com.vng.pubgmobile/com.epicgames.ue4.SplashActivity
 clear
 elif [ $h = 7 ] || [ $h = 07 ]
 then
-echo -e "\e[42mDownloading \e[m"
 wget https://dumb.jackgithub.workers.dev/0:/game_patch_2.1.0.16497.pak > /dev/null 2>&1
 wget https://dumb.jackgithub.workers.dev/0:/map_notbasicin_2.1.0.16490.pak > /dev/null 2>&1
 mv map_notbasicin_2.1.0.16490.pak game_patch_2.1.0.16497.pak /sdcard/Android/data/com.vng.pubgmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks
