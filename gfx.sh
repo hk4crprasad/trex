@@ -1,5 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 echo "YXB0IHVwZGF0ZSAteSA7IGFwdCB1cGdyYWRlIC15IDsgYXB0IGluc3RhbGwgZ2l0IC15IDsgYXB0IGluc3RhbGwgbmN1cnNlcy11dGlscyAteSA7IGFwdCBpbnN0YWxsIHB5dGhvbiAteSA7IHBpcCBpbnN0YWxsIGxvbGNhdCA7IHdnZXQgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2hrNGNycHJhc2FkL3RyZXgvbWFzdGVyL2dmeCA7IG12IGdmeCAkUFJFRklYL2Jpbg==" | base64 --decode | bash
+pkg install dialog -y
 spinlong ()
 {
 echo -e "\n"
